@@ -5,7 +5,7 @@
 namespace OFFSETS
 {
 
-    uintptr_t UWORLD = 0x117392A8; //discord.gg/cSkuGMgpt2
+    uintptr_t UWORLD = 0x11781328; //discord.gg/cSkuGMgpt2
     uintptr_t Viewpoint = 0xE49C7E0; //discord.gg/cSkuGMgpt2
 
     uintptr_t Gameinstance = 0x1D0; //discord.gg/cSkuGMgpt2
@@ -24,7 +24,7 @@ namespace OFFSETS
     uintptr_t AActor = 0xA0; //discord.gg/cSkuGMgpt2
     uintptr_t CurrentActor = 0x8; //discord.gg/cSkuGMgpt2
     uintptr_t Mesh = 0x318; //discord.gg/cSkuGMgpt2
-    uintptr_t Revivefromdbnotime = 0x4AE0; //discord.gg/cSkuGMgpt2
+    uintptr_t Revivefromdbnotime = 0x4ae8; //discord.gg/cSkuGMgpt2
     uintptr_t TeamId = 0x10E0; //discord.gg/cSkuGMgpt2
     uintptr_t ActorTeamId = 0x10e0; //discord.gg/cSkuGMgpt2
 
@@ -40,7 +40,7 @@ namespace OFFSETS
     uintptr_t UCharacterMovementComponent = 0x318; //discord.gg/cSkuGMgpt2
     uintptr_t entity_actor = 0x310; //discord.gg/cSkuGMgpt2
     uintptr_t bIsReloadingWeapon = 0x360; //discord.gg/cSkuGMgpt2
-    uintptr_t GlobalAnimRateScale = 0xA80; //discord.gg/cSkuGMgpt2
+    uintptr_t GlobalAnimRateScale = 0xa68; //discord.gg/cSkuGMgpt2
     uintptr_t CurrentWeapon = 0xa20; //discord.gg/cSkuGMgpt2
     uintptr_t Wireframe = 0x194; //discord.gg/cSkuGMgpt2
     uintptr_t SkeletalMeshes = 0x56e; //discord.gg/cSkuGMgpt2
